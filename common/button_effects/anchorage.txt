@@ -1,0 +1,13 @@
+auto_anchorage_button_effect = {
+	potential = {
+		exists = owner
+		owner = {
+			has_technology = "tech_interstellar_fleet_traditions"
+		}
+	}
+	allow = {
+		always = yes
+	}
+	effect = {
+	}
+}
